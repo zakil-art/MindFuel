@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965236729803",
+    "project_id": "mindfuel-15f17",
+    "storage_bucket": "mindfuel-15f17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965236729803:android:6f63974163ee3dce8b784e",
+        "android_client_info": {
+          "package_name": "com.example.mindfuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeagLc0wnuY1WlIVELxqMCu26aZf83wX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
