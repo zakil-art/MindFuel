@@ -13,6 +13,7 @@ The app stores user entries in a Firebase database and allows users to view thei
 - Simple and clean user interface
 
  How it Works
+ 
 The user logs into the app, enters their mood, and the data is saved in Firebase. 
 The saved data is then displayed in the history screen for review.
 
